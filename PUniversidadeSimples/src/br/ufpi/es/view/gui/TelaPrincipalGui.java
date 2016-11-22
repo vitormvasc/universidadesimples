@@ -170,7 +170,7 @@ public class TelaPrincipalGui extends JFrame {
 				mensagem += "Kátia Cibele \n";
 				mensagem += "Irvayne Matheus \n";
 				mensagem += "Bruno Adolfo \n";
-				mensagem += "Versao: 0.0.94 - 2016 - Janeiro - UFPI";
+				mensagem += "Versao: 1.0.0 - 2016 - Novembro - UFPI";
 
 				JOptionPane.showMessageDialog(null, mensagem, "Sobre", JOptionPane.INFORMATION_MESSAGE);
 			}
